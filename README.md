@@ -12,12 +12,9 @@ Dentre eles:
 
 - Latas2: Um programa para uma loja de tintas. O programa pede o tamanho em metros quadrados da área a ser pintada. Considerando que a cobertura da tinta é de 1 litro para cada 6 metros quadrados e que a tinta é vendida em latas de 18 litros, que custam R$ 80,00 ou em galões de 3,6 litros, que custam R$ 25,00.
   Imprime, ao fim, as quantidades de tinta a serem compradas, a sobra, caso tenha, e os respectivos preços em 3 situações:
-
-      - Comprando apenas latas de 18 litros;
-
-      - Comprando apenas galões de 3,6 litros;
-
-      - Misturando latas e galões, de forma que o desperdício de tinta seja menor. Acrescentando 10% de folga considerando latas cheias.
+    - Comprando apenas latas de 18 litros;
+    - Comprando apenas galões de 3,6 litros;
+    - Misturando latas e galões, de forma que o desperdício de tinta seja menor. Acrescentando 10% de folga considerando latas cheias.
 
 - Quantos números primos: Um código-exercício do Curso de Python da USP, onde o objetivo é pegar uma quantidade 'n' de números e checar quantos números primos se encontram dentro dessa quantidade.
 
